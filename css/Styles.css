@@ -5,6 +5,8 @@ body {
 .jumbotron {
     text-align:center;
     background-color: #232426;
+    color: white;
+    margin-bottom: 0;
 }
 
 .container {
