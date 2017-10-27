@@ -2,6 +2,10 @@ html {
     font-family: "PT Futura", sans-serif;
 }
 
+nav {
+    font-family: impact, sans-serif;
+}
+
 body {
     background-color: white;
 }
