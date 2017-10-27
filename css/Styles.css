@@ -1,3 +1,7 @@
+html {
+    font-family: "PT Futura", sans-serif;
+}
+
 body {
     background-color: white;
 }
@@ -12,3 +16,4 @@ body {
 .container {
     background-color: white;
 }
+
