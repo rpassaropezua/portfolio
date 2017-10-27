@@ -19,5 +19,7 @@ body {
 
 .container {
     background-color: 	#F5F5F5;
+    height: -moz-available;
+    height: -webkit-fill-available;
 }
 
