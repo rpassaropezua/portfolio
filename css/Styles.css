@@ -20,7 +20,7 @@ body {
 }
 
 #java .parallax {
-    background-image: url(../images/java-logo.png");
+    background-image: url("../images/java-logo.png");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
