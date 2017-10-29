@@ -19,11 +19,7 @@ body {
     height: -webkit-fill-available;
 }
 
-#java .parallax {
-    background-image: url("../images/java-logo.png");
-    height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repear: no-repeat;
-    background-size: cover;
+img {
+    max-width: 100%;
+    height: auto;
 }
